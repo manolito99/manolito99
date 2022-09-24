@@ -1,6 +1,6 @@
 
 
-# Hi , I'm Manuel! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+# Hi , I'm Manuel! <img src="https://raw.githubusercontent.com/manolito99/manolito99/master/img_gif/Hi.gif" width="29px"> 
 
 I'm a Computer Engineering student. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development with flutter and Data Analysis. Currently learning new technologies to implement on real world projects.
 A data engineer passionate about Data Science.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
@@ -20,20 +20,21 @@ la foto de monica es de 1581x511
 
 <h2> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages and Tools </h2> 
 
+<img src="https://raw.githubusercontent.com/manolito99/manolito99/master/img_gif/logos.png">
 
 <h2>🌎 Find me in </h2>
 
   <a href="https://www.linkedin.com/in/manueloteromarquez">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://raw.githubusercontent.com/manolito99/manolito99/master/img_gif/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/TheDudeThatCode">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://raw.githubusercontent.com/manolito99/manolito99/master/img_gif/Twitter.svg" />
   </a>
   <a href="https://www.instagram.com/thedudethatcode/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://raw.githubusercontent.com/manolito99/manolito99/master/img_gif/Instagram.svg" />
   </a>
   <a href="mailto:shubhamdeepjha@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://raw.githubusercontent.com/manolito99/manolito99/master/img_gif/Gmail.svg" />
   </a>
  
 <br><br>
