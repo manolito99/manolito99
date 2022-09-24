@@ -25,16 +25,16 @@ la foto de monica es de 1581x511
 <h2>🌎 Find me in </h2>
 
   <a href="https://www.linkedin.com/in/manueloteromarquez">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://raw.githubusercontent.com/manolito99/manolito99/master/img_gif/Linkedin.svg" />
+    <img align="left" alt="Manuel Otero | Linkedin" width="24px" src="https://raw.githubusercontent.com/manolito99/manolito99/master/img_gif/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/TheDudeThatCode">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://raw.githubusercontent.com/manolito99/manolito99/master/img_gif/Twitter.svg" />
+    <img align="left" alt="Manuel Otero| Twitter" width="26px" src="https://raw.githubusercontent.com/manolito99/manolito99/master/img_gif/Twitter.svg" />
   </a>
-  <a href="https://www.instagram.com/thedudethatcode/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://raw.githubusercontent.com/manolito99/manolito99/master/img_gif/Instagram.svg" />
+  <a href="https://www.instagram.com/_nolo_99">
+    <img align="left" alt="Manuel Otero | Instagram" width="24px" src="https://raw.githubusercontent.com/manolito99/manolito99/master/img_gif/Instagram.svg" />
   </a>
-  <a href="mailto:shubhamdeepjha@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://raw.githubusercontent.com/manolito99/manolito99/master/img_gif/Gmail.svg" />
+  <a href="nolomanolo990@gmail.com">
+    <img align="left" alt="Manuel Otero | Gmail" width="26px" src="https://raw.githubusercontent.com/manolito99/manolito99/master/img_gif/Gmail.svg" />
   </a>
  
 <br><br>
