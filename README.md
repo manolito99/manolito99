@@ -33,7 +33,7 @@ la foto de monica es de 1581x511
   <a href="https://www.instagram.com/_nolo_99">
     <img align="left" alt="Manuel Otero | Instagram" width="24px" src="https://raw.githubusercontent.com/manolito99/manolito99/master/img_gif/Instagram.svg" />
   </a>
-  <a href="nolomanolo990@gmail.com">
+  <a href="mailto:nolomanolo990@gmail.com">
     <img align="left" alt="Manuel Otero | Gmail" width="26px" src="https://raw.githubusercontent.com/manolito99/manolito99/master/img_gif/Gmail.svg" />
   </a>
  
