@@ -2,8 +2,7 @@
 
 # Hi , I'm Manuel! <img src="https://raw.githubusercontent.com/manolito99/manolito99/master/img_gif/Hi.gif" width="29px"> 
 
-I'm a Computer Engineering student. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development with flutter and Data Analysis. Currently learning new technologies to implement on real world projects.
-A data engineer passionate about Data Science.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+A Data engenieer passionate about Data Science.:bar_chart: Machine/Deep Learning. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot:. Currently learning new technologies to implement on real world projects.
 
 <img src="https://raw.githubusercontent.com/manolito99/manolito99/master/banner.png"> 
 <!---
