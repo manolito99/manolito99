@@ -2,26 +2,28 @@
 
 # Hi , I'm Manuel! <img src="https://raw.githubusercontent.com/manolito99/manolito99/master/img_gif/Hi.gif" width="29px"> 
 
-A Data engenieer passionate about Data Science.:bar_chart: Machine/Deep Learning. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot:. Currently learning new technologies to implement on real world projects.
+Un Data scientist apasionado por el mundo del machine/deep learning .:bar_chart:. Me entusiasma automatizar procesos, construir pipelines, explorar problemas de escalabilidad y mejorar la eficiencia y rendimiento. Firme defensor del 📜 código abierto, :cloud: computación en la nube, 🚀 DevOps, :new: innovación y automatización :robot:. Actualmente, estoy aprendiendo nuevas tecnologías para implementar en proyectos del mundo real.
 
 <img src="https://raw.githubusercontent.com/manolito99/manolito99/master/banner.png"> 
 <!---
 la foto de monica es de 1581x511
 -->
-<h2>👨🏻‍💻 About Me </h2>
+<h2>👨🏻‍💻 Sobre mi </h2>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💡 &nbsp;&nbsp; I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+
+- 🤔   Explorando nuevas tecnologías y desarrollando soluciones de software y trucos rápidos.
+- 🎓   Especializado en IA y tecnologías Big Data, nunca dejando de aprender cosas nuevas sobre tecnología.
+- 💡    Me interesa todo lo relacionado con los datos: Big Data, Cloud, Machine Learning y Data Science
+- 💼   Trabajando en el campo de la Ciencia de Datos.
+- 🌱   Aprendiendo más sobre Arquitectura en la Nube, Diseño de Sistemas e Inteligencia Artificial.
+- ✍️   Persiguiendo el diseño gráfico y la escritura de blogs como pasatiempos/actividades secundarias.
+
 
 <h2> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages and Tools </h2> 
 
 <img src="https://raw.githubusercontent.com/manolito99/manolito99/master/img_gif/logos.png">
 
-<h2>🌎 Find me in </h2>
+<h2>🌎 Puedes encontrarme en </h2>
 
   <a href="https://www.linkedin.com/in/manueloteromarquez">
     <img align="left" alt="Manuel Otero | Linkedin" width="24px" src="https://raw.githubusercontent.com/manolito99/manolito99/master/img_gif/Linkedin.svg" />
