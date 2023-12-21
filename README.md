@@ -1,8 +1,8 @@
 
 
-# Hi , I'm Manuel! <img src="https://raw.githubusercontent.com/manolito99/manolito99/master/img_gif/Hi.gif" width="29px"> 
+# Hola!, soy Manuel <img src="https://raw.githubusercontent.com/manolito99/manolito99/master/img_gif/Hi.gif" width="29px"> 
 
-Un Data scientist apasionado por el mundo del machine/deep learning .:bar_chart:. Me entusiasma automatizar procesos, construir pipelines, explorar problemas de escalabilidad y mejorar la eficiencia y rendimiento. Firme defensor del 📜 código abierto, :cloud: computación en la nube, 🚀 DevOps, :new: innovación y automatización :robot:. Actualmente, estoy aprendiendo nuevas tecnologías para implementar en proyectos del mundo real.
+Un Data scientist apasionado por el mundo del machine/deep learning.📊 Me entusiasma automatizar procesos, construir pipelines, explorar problemas de escalabilidad y mejorar la eficiencia y rendimiento. Firme defensor del 📜 código abierto, ☁️ computación en la nube, 🚀 DevOps, 🆕 innovación y automatización 🤖. Actualmente, estoy aprendiendo nuevas tecnologías para implementar en proyectos del mundo real.
 
 <img src="https://raw.githubusercontent.com/manolito99/manolito99/master/banner.png"> 
 <!---
